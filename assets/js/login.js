@@ -1,6 +1,7 @@
 import {
     auth,
     signInWithEmailAndPassword,
+    sendPasswordResetEmail,
     getDoc, 
     doc,
     db
